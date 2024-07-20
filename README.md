@@ -1,2 +1,2 @@
-# Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardware
+# Sales-and-Finance-Analytics-Excel-Project-of-AtliQ-Hardware
 Excel Project
